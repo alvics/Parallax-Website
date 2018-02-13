@@ -1,2 +1,2 @@
 ﻿# parallax-website
-## View [website] (https://alvics.github.io/Parallax-Website/) 
+## View [website](https://alvics.github.io/Parallax-Website/) 
